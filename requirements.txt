@@ -1,0 +1,7 @@
+streamlit
+pandas
+mlxtend
+openpyxl
+mysql-connector-python
+numpy
+xlsxwriter
